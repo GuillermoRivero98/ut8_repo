@@ -1,0 +1,6 @@
+Describe en lenguaje natural la solución al problema (solución general y modelo) 
+
+El problema consiste en optimizar la conexión eléctrica en un barrio residencial disperso. 
+Se puede modelar como un problema de encontrar un Árbol de Expansión Mínima en un grafo no 
+dirigido, donde los vértices representan las casas y las aristas 
+representan las conexiones posibles entre ellas con pesos asociados a las distancias.

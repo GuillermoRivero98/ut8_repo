@@ -1,0 +1,13 @@
+Define las estructuras de datos necesarias para representar el TDA y eventualmente las auxiliares 
+necesarias para la resolución. 
+
+Se necesitan las siguientes escrucutas de datos:
+
+Tvertice: donde la colección de vértices que representan las casas.
+
+TArista: donde la colección de aristas con pesos que representan las distancias entre las casas.
+
+TGrado: registro del grado de cada vértice
+
+TConjunto: Estructura de datos para implementar conjuntos disjuntos para implementar Kruskal
+
